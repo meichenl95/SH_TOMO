@@ -1,0 +1,5 @@
+download data and preliminary processes (including add event info, mark tauPtime, pick wave peaks, filtering, resample): ./data_download.py
+
+transform SAC files to XH files and trace select processes: ./xh_process.py
+
+plot from XH files: ./xh_readfile.py
